@@ -49,4 +49,28 @@ let n = parseInt(prompt("Enter a number: "));
 // console.log(`The sum of odd numbers from 1 to ${n} is: ${oddSum}`);
 // console.log(`The sum of even numbers from 1 to ${n} is: ${evenSum}`);
 
+// print factors of n number
+// let factors = [1];
+// for (let i = 2; i <= n / 2; i++) {
+//   if (n % i === 0) {
+//     factors.push(i);
+//   }
+// }
+// if (n !== 1) {
+//   factors.push(n);
+// }
+// console.log(factors);
 
+// check n is a prime number or not
+// let isPrime = true;
+// if (n < 2) {
+//   isPrime = false;
+// } else {
+//   for (let i = 2; i <= Math.sqrt(n); i++) {
+//     if (n % i === 0) {
+//       isPrime = false;
+//       break;
+//     }
+//   }
+// }
+// isPrime ? console.log(`${n} is a prime number`) : console.log(`${n} is a not a prime number`);
