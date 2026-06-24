@@ -74,3 +74,5 @@ let n = parseInt(prompt("Enter a number: "));
 //   }
 // }
 // isPrime ? console.log(`${n} is a prime number`) : console.log(`${n} is a not a prime number`);
+
+
