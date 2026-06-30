@@ -42,3 +42,15 @@ let n = Number(prompt("Enter a number :- "));
 // A B C D E
 // A B C D E F
 // A B C D E F G
+
+// for (let i = n; i >= 1; i--) {
+//   for (let j = 1; j <= i; j++) {
+//     process.stdout.write("* ");
+//   }
+//   console.log();
+// }
+// output -
+// * * * *
+// * * *
+// * *
+// *
