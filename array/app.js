@@ -33,3 +33,19 @@
 //   }
 // }
 // console.log(count);
+
+// Find the second largest element
+// const arr = [12, 45, 8, 99, 23, 99];
+// let largest = 0;
+// let secondLargest = 0;
+// for (let i = 0; i < arr.length; i++) {
+//   if (largest < arr[i]) {
+//     secondLargest = largest;
+//     largest = arr[i];
+//   } else if (arr[i] > secondLargest && arr[i] !== largest) {
+//     secondLargest = arr[i];
+//   }
+// }
+// console.log(largest, secondLargest);
+
+
