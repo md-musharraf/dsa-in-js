@@ -17,4 +17,19 @@
 //   }
 // }
 
-// for()
+// find the max number in array and How many times the maximum element appears
+// let arr = [1, 22, 2, 24, 89, 98, 4, 4, 3, 98, 98];
+// let max = arr[0];
+// for (let i = 1; i < arr.length; i++) {
+//   if (max < arr[i]) {
+//     max = arr[i];
+//   }
+// }
+// console.log(max);
+// let count = 0;
+// for (let j = 0; j < arr.length; j++) {
+//   if (max === arr[j]) {
+//     count++;
+//   }
+// }
+// console.log(count);
