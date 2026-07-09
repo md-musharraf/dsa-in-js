@@ -59,3 +59,12 @@
 //   }
 // }
 // console.log(freq[1]);
+
+// //Reverse an array
+// const arr = [10, 20, 30, 40, 50];
+// let revArr = [];
+// for (let i = arr.length - 1; i >= 0; i--) {
+//   console.log(arr[i]);
+//   revArr.push(arr[i]);
+// }
+// console.log(revArr);
