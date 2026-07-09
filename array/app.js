@@ -82,3 +82,13 @@
 // } else {
 //   console.log("this is not a palindrome array");
 // }
+
+// // sum of all even number
+// const arr = [5, 10, 15, 20, 25, 30];
+// let sum = 0;
+// for (let i = 0; i < arr.length; i++) {
+//   if (arr[i] % 2 === 0) {
+//     sum = sum + arr[i];
+//   }
+// }
+// console.log(sum);
