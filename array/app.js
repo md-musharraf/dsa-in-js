@@ -68,3 +68,17 @@
 //   revArr.push(arr[i]);
 // }
 // console.log(revArr);
+
+// // check this is a palindrome array or not
+// const arr = [1, 2, 3, 2, 1];
+// let isPalindrome = false;
+// for (let i = 0; i < Math.floor(arr.length / 2); i++) {
+//   if (arr[i] === arr[arr.length - 1 - i]) {
+//     isPalindrome = true;
+//   }
+// }
+// if (isPalindrome) {
+//   console.log("this is palindrome array");
+// } else {
+//   console.log("this is not a palindrome array");
+// }
