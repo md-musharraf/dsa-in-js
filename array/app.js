@@ -48,4 +48,14 @@
 // }
 // console.log(largest, secondLargest);
 
-
+// // Count how many times each number appears.
+// const arr = [1, 2, 1, 3, 2, 1];
+// let freq = {};
+// for (let i = 0; i < arr.length; i++) {
+//   if (freq[arr[i]]) {
+//     freq[arr[i]]++;
+//   } else {
+//     freq[arr[i]] = 1;
+//   }
+// }
+// console.log(freq[1]);
