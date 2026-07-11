@@ -5,6 +5,7 @@
 // }
 // console.log(revStr);
 
+// is palidrome or not
 // let str = "madammam";
 // let palindrome = true;
 // for (let i = 0; i < Math.floor(str.length / 2); i++) {
@@ -18,3 +19,17 @@
 // } else {
 //   console.log("This is not a palindrome string");
 // }
+
+// Count vowels in the word
+// let str = "musharraf";
+// let vowels = "aieou";
+// let count = 0;
+// for (let i = 0; i < str.length; i++) {
+//   for (let j = 0; j < vowels.length; j++) {
+//     if (str[i] === vowels[j]) {
+//       console.log(str[i]);
+//       count = count + 1;
+//     }
+//   }
+// }
+// console.log(count);
