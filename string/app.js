@@ -33,3 +33,15 @@
 //   }
 // }
 // console.log(count);
+
+// // find how may type of character in a word
+// let str = "musharraf";
+// let char = { m: 1, u: 1, s: 1, h: 1, a: 2, r: 2, f: 1 };
+// for (let i = 0; i < str.length; i++) {
+//   if (char[str[i]]) {
+//     char[str[i]] += 1;
+//   } else {
+//     char[str[i]] = 1;
+//   }
+// }
+// console.log(char);
