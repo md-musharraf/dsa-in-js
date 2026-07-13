@@ -45,3 +45,14 @@
 //   }
 // }
 // console.log(char);
+
+// // Count Uppercase Letters
+// let str = "MuhsArrAF";
+// let uppercase = 0;
+// for (let i = 0; i < str.length; i++) {
+//   if (str[i] === str[i].toUpperCase()) {
+//     console.log(str[i]);
+//     uppercase += 1;
+//   }
+// }
+// console.log(uppercase);
