@@ -108,3 +108,12 @@
 //   }
 // }
 // console.log(newArr);
+
+// // Array left Rotation by 1
+// let arr = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100];
+// let newArr = [];
+// for (let i = 1; i < arr.length; i++) {
+//   newArr[i - 1] = arr[i];
+// }
+// newArr[arr.length - 1] = arr[0];
+// console.log(newArr);
