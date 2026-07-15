@@ -117,3 +117,18 @@
 // }
 // newArr[arr.length - 1] = arr[0];
 // console.log(newArr);
+
+// // array left rotation by k element
+// const prompt = require("prompt-sync")();
+// let k = Number(prompt("Enter a number :- "));
+// let arr = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
+// let newArr = [];
+// let idx = 0;
+// for (let i = k; i < arr.length; i++) {
+//   newArr[i - k] = arr[i];
+// }
+// for (let j = arr.length - k; j < arr.length; j++) {
+//   newArr[j] = arr[arr.length - arr.length + idx];
+//   idx++;
+// }
+// console.log(newArr);
