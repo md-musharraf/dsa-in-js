@@ -92,3 +92,19 @@
 //   }
 // }
 // console.log(sum);
+
+// // All zeroes to left and all ones to right
+// let arr = [0, 1, 0, 1, 1, 1, 0, 1, 0];
+// let zeroIdx = 0;
+// let oneIdx = arr.length - 1;
+// let newArr = [];
+// for (let i = 0; i < arr.length; i++) {
+//   if (arr[i] === 0) {
+//     newArr[zeroIdx] = 0;
+//     zeroIdx++;
+//   } else {
+//     newArr[oneIdx] = 1;
+//     oneIdx--;
+//   }
+// }
+// console.log(newArr);
