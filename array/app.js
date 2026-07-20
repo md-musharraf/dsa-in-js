@@ -132,3 +132,7 @@
 //   idx++;
 // }
 // console.log(newArr);
+
+for (let i = 1; i < Array.length; i++) {
+  console.log(i);
+}
